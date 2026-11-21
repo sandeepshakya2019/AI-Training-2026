@@ -1,0 +1,501 @@
+Complaint_ID,State,Department,Complaint_Date,Complaint_Description,Status,Resolution_Date
+GRV0001,Haryana,Electricity,2026-09-28,Frequent electricity cuts in village,Pending,
+GRV0002,Haryana,Health,2026-08-03,Medicine shortage in government hospital,Resolved,2026-08-27
+GRV0003,Punjab,Health,2026-05-11,Medicine shortage in government hospital,Resolved,2026-05-13
+GRV0004,Himachal Pradesh,Health,2026-07-11,Medicine shortage in government hospital,In Progress,
+GRV0005,Delhi,Water Supply,2026-09-10,No drinking water supply for several days,Resolved,2026-09-27
+GRV0006,Delhi,Electricity,2026-07-07,Incorrect electricity bill received,Resolved,2026-08-06
+GRV0007,Haryana,Electricity,2026-05-11,Frequent electricity cuts in village,In Progress,
+GRV0008,Uttar Pradesh,Health,2026-03-30,Medicine shortage in government hospital,In Progress,
+GRV0009,Punjab,Education,2026-02-22,Scholarship payment is delayed,Resolved,2026-03-22
+GRV0010,Himachal Pradesh,Water Supply,2026-09-21,Water pipeline is damaged,Resolved,2026-10-05
+GRV0011,Uttar Pradesh,Health,2026-01-02,Medicine shortage in government hospital,Resolved,2026-01-24
+GRV0012,Punjab,Health,2026-07-10,Medicine shortage in government hospital,Pending,
+GRV0013,Punjab,Electricity,2026-09-27,Frequent electricity cuts in village,Pending,
+GRV0014,Haryana,Social Welfare,2026-08-01,Government scheme benefit is pending,Resolved,2026-08-19
+GRV0015,Himachal Pradesh,Electricity,2026-09-09,Frequent electricity cuts in village,Resolved,2026-09-22
+GRV0016,Himachal Pradesh,Road Transport,2026-03-06,Public bus service is irregular,Resolved,2026-03-15
+GRV0017,Himachal Pradesh,Education,2026-03-04,School infrastructure needs repair,Pending,
+GRV0018,Uttar Pradesh,Water Supply,2026-10-16,No drinking water supply for several days,Resolved,2026-10-26
+GRV0019,Himachal Pradesh,Revenue,2026-07-20,Income certificate approval is delayed,Resolved,2026-07-22
+GRV0020,Punjab,Electricity,2026-03-03,Incorrect electricity bill received,Resolved,2026-03-06
+GRV0021,Delhi,Education,2026-02-04,Scholarship payment is delayed,Resolved,2026-02-09
+GRV0022,Himachal Pradesh,Water Supply,2026-09-12,No drinking water supply for several days,Resolved,2026-10-09
+GRV0023,Himachal Pradesh,Electricity,2026-02-11,Incorrect electricity bill received,Resolved,2026-03-02
+GRV0024,Haryana,Water Supply,2026-08-10,No drinking water supply for several days,Resolved,2026-08-17
+GRV0025,Delhi,Road Transport,2026-02-05,Road is damaged and unsafe,In Progress,
+GRV0026,Himachal Pradesh,Health,2026-03-07,Hospital staff is not available,Resolved,2026-04-06
+GRV0027,Delhi,Revenue,2026-01-28,Income certificate approval is delayed,Resolved,2026-02-17
+GRV0028,Himachal Pradesh,Road Transport,2026-08-19,Road is damaged and unsafe,In Progress,
+GRV0029,Himachal Pradesh,Water Supply,2026-05-01,No drinking water supply for several days,Pending,
+GRV0030,Delhi,Health,2026-05-17,Medicine shortage in government hospital,Resolved,2026-05-18
+GRV0031,Punjab,Education,2026-06-09,Scholarship payment is delayed,Resolved,2026-06-18
+GRV0032,Uttar Pradesh,Health,2026-02-21,Hospital staff is not available,Resolved,2026-02-28
+GRV0033,Delhi,Education,2026-04-23,Scholarship payment is delayed,In Progress,
+GRV0034,Himachal Pradesh,Social Welfare,2026-08-08,Pension payment has not been received,Resolved,2026-08-13
+GRV0035,Punjab,Education,2026-05-10,Scholarship payment is delayed,Resolved,2026-06-05
+GRV0036,Haryana,Road Transport,2026-05-03,Public bus service is irregular,Resolved,2026-05-09
+GRV0037,Himachal Pradesh,Social Welfare,2026-08-28,Government scheme benefit is pending,Pending,
+GRV0038,Punjab,Electricity,2026-09-16,Frequent electricity cuts in village,Resolved,2026-10-13
+GRV0039,Punjab,Water Supply,2026-05-27,No drinking water supply for several days,Resolved,2026-06-03
+GRV0040,Himachal Pradesh,Water Supply,2026-05-08,No drinking water supply for several days,Resolved,2026-05-16
+GRV0041,Delhi,Education,2026-05-31,Scholarship payment is delayed,Resolved,2026-06-10
+GRV0042,Himachal Pradesh,Water Supply,2026-04-22,Water pipeline is damaged,Resolved,2026-05-20
+GRV0043,Haryana,Social Welfare,2026-09-11,Government scheme benefit is pending,In Progress,
+GRV0044,Delhi,Water Supply,2026-01-09,Water pipeline is damaged,Resolved,2026-01-28
+GRV0045,Punjab,Revenue,2026-04-30,Land record correction is pending,In Progress,
+GRV0046,Himachal Pradesh,Social Welfare,2026-04-14,Pension payment has not been received,Resolved,2026-04-17
+GRV0047,Haryana,Social Welfare,2026-07-13,Pension payment has not been received,Pending,
+GRV0048,Punjab,Health,2026-03-09,Medicine shortage in government hospital,Resolved,2026-03-30
+GRV0049,Himachal Pradesh,Water Supply,2026-05-15,Water pipeline is damaged,Pending,
+GRV0050,Haryana,Health,2026-01-22,Hospital staff is not available,Resolved,2026-01-28
+GRV0051,Himachal Pradesh,Revenue,2026-10-10,Income certificate approval is delayed,Resolved,2026-10-31
+GRV0052,Himachal Pradesh,Water Supply,2026-05-27,Water pipeline is damaged,Resolved,2026-06-13
+GRV0053,Delhi,Social Welfare,2026-02-15,Government scheme benefit is pending,In Progress,
+GRV0054,Haryana,Health,2026-10-07,Hospital staff is not available,Resolved,2026-10-21
+GRV0055,Himachal Pradesh,Social Welfare,2026-04-26,Government scheme benefit is pending,Resolved,2026-05-17
+GRV0056,Uttar Pradesh,Electricity,2026-01-18,Frequent electricity cuts in village,Resolved,2026-02-09
+GRV0057,Uttar Pradesh,Water Supply,2026-10-07,No drinking water supply for several days,Resolved,2026-10-22
+GRV0058,Himachal Pradesh,Electricity,2026-09-30,,Pending,
+GRV0059,Uttar Pradesh,Water Supply,2026-02-08,No drinking water supply for several days,Resolved,2026-03-03
+GRV0060,Himachal Pradesh,Education,2026-01-13,School infrastructure needs repair,Resolved,2026-01-20
+GRV0061,Punjab,Road Transport,2026-09-21,Road is damaged and unsafe,Pending,
+GRV0062,Delhi,Education,2026-04-02,Scholarship payment is delayed,Resolved,2026-04-25
+GRV0063,Uttar Pradesh,Health,2026-07-09,Medicine shortage in government hospital,Resolved,2026-08-04
+GRV0064,Delhi,Education,2026-06-19,School infrastructure needs repair,Pending,
+GRV0065,Punjab,Education,2026-09-21,School infrastructure needs repair,Pending,
+GRV0066,Punjab,Water Supply,2026-07-15,Water pipeline is damaged,Pending,
+GRV0067,Punjab,Electricity,2026-05-24,Incorrect electricity bill received,In Progress,
+GRV0068,Punjab,Education,2026-05-25,School infrastructure needs repair,Resolved,2026-06-13
+GRV0069,Himachal Pradesh,Health,2026-08-17,Medicine shortage in government hospital,Resolved,2026-09-16
+GRV0070,Uttar Pradesh,Electricity,2026-02-27,Incorrect electricity bill received,In Progress,
+GRV0071,Haryana,Electricity,2026-02-17,Frequent electricity cuts in village,Resolved,2026-03-02
+GRV0072,Haryana,Social Welfare,2026-07-11,Pension payment has not been received,Resolved,2026-08-02
+GRV0073,Himachal Pradesh,Health,2026-06-03,Hospital staff is not available,Resolved,2026-06-08
+GRV0074,Punjab,Health,2026-03-10,Hospital staff is not available,Resolved,2026-04-09
+GRV0075,Haryana,Electricity,2026-08-06,Frequent electricity cuts in village,Pending,
+GRV0076,Uttar Pradesh,Education,2026-09-11,School infrastructure needs repair,Resolved,2026-10-04
+GRV0077,Uttar Pradesh,Social Welfare,2026-04-10,Pension payment has not been received,Resolved,2026-04-20
+GRV0078,Punjab,Electricity,2026-09-14,Incorrect electricity bill received,Resolved,2026-09-27
+GRV0079,Punjab,Health,2026-09-04,Medicine shortage in government hospital,In Progress,
+GRV0080,Delhi,Water Supply,2026-06-01,Water pipeline is damaged,Pending,
+GRV0081,Punjab,Health,2026-06-28,Hospital staff is not available,Pending,
+GRV0082,Punjab,Road Transport,2026-06-17,Road is damaged and unsafe,In Progress,
+GRV0083,Delhi,Health,2026-04-05,Medicine shortage in government hospital,Resolved,2026-05-04
+GRV0084,Uttar Pradesh,Water Supply,2026-03-31,Water pipeline is damaged,Resolved,2026-04-26
+GRV0085,Uttar Pradesh,Education,2026-04-25,Scholarship payment is delayed,Resolved,2026-04-29
+GRV0086,Punjab,Education,2026-03-16,Scholarship payment is delayed,In Progress,
+GRV0087,Himachal Pradesh,Road Transport,2026-09-06,Public bus service is irregular,Resolved,2026-09-11
+GRV0088,Punjab,Road Transport,2026-06-26,Public bus service is irregular,Pending,
+GRV0089,Haryana,Education,2026-04-06,School infrastructure needs repair,Resolved,2026-05-06
+GRV0090,Delhi,Electricity,2026-01-13,Frequent electricity cuts in village,Pending,
+GRV0091,Haryana,Electricity,2026-03-03,Frequent electricity cuts in village,Resolved,2026-03-28
+GRV0092,Delhi,Health,2026-04-10,Medicine shortage in government hospital,Resolved,2026-04-19
+GRV0093,Punjab,Electricity,2026-10-11,Frequent electricity cuts in village,In Progress,
+GRV0094,Punjab,Electricity,2026-05-24,Frequent electricity cuts in village,Resolved,2026-05-27
+GRV0095,Himachal Pradesh,Water Supply,2026-02-22,No drinking water supply for several days,Pending,
+GRV0096,Uttar Pradesh,Health,2026-02-11,Hospital staff is not available,In Progress,
+GRV0097,Punjab,Road Transport,2026-08-09,Road is damaged and unsafe,Resolved,2026-08-27
+GRV0098,Haryana,Road Transport,2026-09-10,Public bus service is irregular,Pending,
+GRV0099,Haryana,Health,2026-10-10,Hospital staff is not available,Pending,
+GRV0100,Punjab,Health,2026-05-16,Hospital staff is not available,Resolved,2026-05-17
+GRV0101,Punjab,Social Welfare,2026-08-05,Pension payment has not been received,Resolved,2026-08-09
+GRV0102,Uttar Pradesh,Electricity,2026-07-01,Incorrect electricity bill received,Pending,
+GRV0103,Uttar Pradesh,Education,2026-05-06,School infrastructure needs repair,Resolved,2026-05-19
+GRV0104,Himachal Pradesh,Water Supply,2026-05-28,No drinking water supply for several days,Resolved,2026-06-26
+GRV0105,Himachal Pradesh,Road Transport,2026-07-09,Road is damaged and unsafe,Resolved,2026-08-06
+GRV0106,Punjab,Revenue,2026-04-27,Land record correction is pending,In Progress,
+GRV0107,Delhi,Social Welfare,2026-05-29,Government scheme benefit is pending,Resolved,2026-06-19
+GRV0108,Himachal Pradesh,Health,2026-08-15,Medicine shortage in government hospital,Pending,
+GRV0109,Haryana,Health,2026-01-14,Medicine shortage in government hospital,Resolved,2026-01-15
+GRV0110,Delhi,Water Supply,2026-05-24,Water pipeline is damaged,Pending,
+GRV0111,Punjab,Social Welfare,2026-09-29,Government scheme benefit is pending,In Progress,
+GRV0112,Uttar Pradesh,Water Supply,2026-01-08,Water pipeline is damaged,Resolved,2026-01-12
+GRV0113,Himachal Pradesh,Electricity,2026-06-27,Incorrect electricity bill received,Resolved,2026-07-02
+GRV0114,Punjab,Social Welfare,2026-05-25,Pension payment has not been received,Resolved,2026-06-15
+GRV0115,Uttar Pradesh,Water Supply,2026-02-15,No drinking water supply for several days,Resolved,2026-02-21
+GRV0116,Uttar Pradesh,Water Supply,2026-01-10,No drinking water supply for several days,In Progress,
+GRV0117,Himachal Pradesh,Health,2026-04-29,Medicine shortage in government hospital,Resolved,2026-05-21
+GRV0118,Himachal Pradesh,Social Welfare,2026-06-26,Government scheme benefit is pending,Resolved,2026-07-22
+GRV0119,Uttar Pradesh,Road Transport,2026-06-26,Road is damaged and unsafe,Pending,
+GRV0120,Haryana,Electricity,2026-01-06,Frequent electricity cuts in village,Pending,
+GRV0121,Haryana,Road Transport,2026-09-16,Road is damaged and unsafe,Resolved,2026-09-21
+GRV0122,Himachal Pradesh,Road Transport,2026-03-24,Public bus service is irregular,Resolved,2026-04-07
+GRV0123,Himachal Pradesh,Education,2026-06-22,Scholarship payment is delayed,Resolved,2026-07-22
+GRV0124,Uttar Pradesh,Road Transport,2026-02-03,Public bus service is irregular,Resolved,2026-02-11
+GRV0125,Uttar Pradesh,Electricity,2026-04-28,Incorrect electricity bill received,Pending,
+GRV0126,Delhi,Road Transport,2026-08-24,Road is damaged and unsafe,Resolved,2026-09-23
+GRV0127,Haryana,Water Supply,2026-09-12,No drinking water supply for several days,Resolved,2026-09-27
+GRV0128,Punjab,Water Supply,2026-03-16,Water pipeline is damaged,Resolved,2026-03-22
+GRV0129,Delhi,Electricity,2026-04-08,Frequent electricity cuts in village,Resolved,2026-04-23
+GRV0130,Punjab,Revenue,2026-09-06,Income certificate approval is delayed,Resolved,2026-09-30
+GRV0131,Haryana,Water Supply,2026-02-20,Water pipeline is damaged,Pending,
+GRV0132,Haryana,Electricity,2026-09-30,Incorrect electricity bill received,Resolved,2026-10-24
+GRV0133,Delhi,Water Supply,2026-07-24,No drinking water supply for several days,Resolved,2026-08-04
+GRV0134,Punjab,Electricity,2026-05-31,Incorrect electricity bill received,Resolved,2026-06-11
+GRV0135,Delhi,Water Supply,2026-10-08,No drinking water supply for several days,In Progress,
+GRV0136,Haryana,Water Supply,2026-03-02,No drinking water supply for several days,Resolved,2026-03-21
+GRV0137,Himachal Pradesh,Education,2026-06-19,,Resolved,2026-07-10
+GRV0138,Uttar Pradesh,Electricity,2026-02-15,Frequent electricity cuts in village,Resolved,2026-03-01
+GRV0139,Himachal Pradesh,Education,2026-10-09,School infrastructure needs repair,Pending,
+GRV0140,Haryana,Health,2026-04-17,Hospital staff is not available,In Progress,
+GRV0141,Haryana,Education,2026-09-14,School infrastructure needs repair,Resolved,2026-09-17
+GRV0142,Uttar Pradesh,Health,2026-05-07,Medicine shortage in government hospital,In Progress,
+GRV0143,Uttar Pradesh,Electricity,2026-08-04,Incorrect electricity bill received,Pending,
+GRV0144,Delhi,Health,2026-01-07,Hospital staff is not available,Pending,
+GRV0145,Delhi,Health,2026-10-01,Hospital staff is not available,Resolved,2026-10-04
+GRV0146,Himachal Pradesh,Health,2026-04-29,Hospital staff is not available,Resolved,2026-05-09
+GRV0147,Haryana,Health,2026-05-06,Medicine shortage in government hospital,Resolved,2026-05-23
+GRV0148,Punjab,Electricity,2026-03-08,Frequent electricity cuts in village,Resolved,2026-03-26
+GRV0149,Himachal Pradesh,Road Transport,2026-04-21,Public bus service is irregular,Pending,
+GRV0150,Uttar Pradesh,Health,2026-04-11,Hospital staff is not available,Resolved,2026-05-07
+GRV0151,Haryana,Electricity,2026-08-17,Incorrect electricity bill received,In Progress,
+GRV0152,Delhi,Education,2026-03-11,School infrastructure needs repair,Resolved,2026-03-15
+GRV0153,Delhi,Education,2026-04-05,Scholarship payment is delayed,Resolved,2026-04-14
+GRV0154,Uttar Pradesh,Health,2026-08-17,Medicine shortage in government hospital,In Progress,
+GRV0155,Himachal Pradesh,Social Welfare,2026-01-04,Government scheme benefit is pending,Resolved,2026-01-26
+GRV0156,Delhi,Health,2026-03-03,Medicine shortage in government hospital,In Progress,
+GRV0157,Uttar Pradesh,Electricity,2026-06-22,Incorrect electricity bill received,Pending,
+GRV0158,Punjab,Water Supply,2026-07-31,No drinking water supply for several days,Resolved,2026-08-17
+GRV0159,Delhi,Water Supply,2026-05-22,No drinking water supply for several days,Resolved,2026-05-27
+GRV0160,Uttar Pradesh,Electricity,2026-09-16,Frequent electricity cuts in village,Resolved,2026-10-04
+GRV0161,Uttar Pradesh,Health,2026-06-21,Medicine shortage in government hospital,Resolved,2026-06-29
+GRV0162,Delhi,Education,2026-04-11,Scholarship payment is delayed,Resolved,2026-04-20
+GRV0163,Punjab,Electricity,2026-04-04,Incorrect electricity bill received,Resolved,2026-04-09
+GRV0164,Delhi,Electricity,2026-05-17,Frequent electricity cuts in village,Resolved,2026-05-20
+GRV0165,Delhi,Road Transport,2026-03-01,Road is damaged and unsafe,Pending,
+GRV0166,Haryana,Road Transport,2026-10-13,Road is damaged and unsafe,Pending,
+GRV0167,Himachal Pradesh,Education,2026-03-19,Scholarship payment is delayed,Resolved,2026-03-23
+GRV0168,Delhi,Water Supply,2026-10-23,No drinking water supply for several days,Resolved,2026-10-31
+GRV0169,Himachal Pradesh,Education,2026-01-23,Scholarship payment is delayed,Resolved,2026-01-24
+GRV0170,Delhi,Revenue,2026-04-14,Income certificate approval is delayed,Resolved,2026-04-21
+GRV0171,Haryana,Social Welfare,2026-06-28,,Resolved,2026-07-18
+GRV0172,Himachal Pradesh,Electricity,2026-08-19,Frequent electricity cuts in village,Resolved,2026-09-17
+GRV0173,Uttar Pradesh,Water Supply,2026-10-16,Water pipeline is damaged,Resolved,2026-11-07
+GRV0174,Punjab,Electricity,2026-04-28,Frequent electricity cuts in village,Pending,
+GRV0175,Haryana,Health,2026-07-03,Hospital staff is not available,Resolved,2026-07-11
+GRV0176,Delhi,Education,2026-06-22,Scholarship payment is delayed,Pending,
+GRV0177,Punjab,Water Supply,2026-10-09,No drinking water supply for several days,Resolved,2026-10-14
+GRV0178,Uttar Pradesh,Social Welfare,2026-02-07,Government scheme benefit is pending,Resolved,2026-03-02
+GRV0179,Uttar Pradesh,Water Supply,2026-08-06,No drinking water supply for several days,Resolved,2026-09-05
+GRV0180,Punjab,Education,2026-04-14,School infrastructure needs repair,In Progress,
+GRV0181,Uttar Pradesh,Water Supply,2026-05-13,No drinking water supply for several days,In Progress,
+GRV0182,Himachal Pradesh,Water Supply,2026-02-20,Water pipeline is damaged,Pending,
+GRV0183,Uttar Pradesh,Revenue,2026-09-14,Income certificate approval is delayed,Resolved,2026-10-05
+GRV0184,Delhi,Health,2026-01-01,Medicine shortage in government hospital,In Progress,
+GRV0185,Haryana,Water Supply,2026-05-17,Water pipeline is damaged,Resolved,2026-06-11
+GRV0186,Delhi,Education,2026-03-04,,Resolved,2026-03-30
+GRV0187,Himachal Pradesh,Education,2026-07-29,School infrastructure needs repair,Resolved,2026-08-25
+GRV0188,Himachal Pradesh,Education,2026-09-08,Scholarship payment is delayed,Resolved,2026-10-02
+GRV0189,Uttar Pradesh,Health,2026-06-10,Medicine shortage in government hospital,Resolved,2026-06-21
+GRV0190,Himachal Pradesh,Health,2026-02-18,Hospital staff is not available,Resolved,2026-03-10
+GRV0191,Himachal Pradesh,Water Supply,2026-03-04,No drinking water supply for several days,In Progress,
+GRV0192,Delhi,Water Supply,2026-05-21,Water pipeline is damaged,Resolved,2026-06-09
+GRV0193,Haryana,Revenue,2026-02-01,Land record correction is pending,Resolved,2026-02-18
+GRV0194,Delhi,Electricity,2026-01-19,Frequent electricity cuts in village,Resolved,2026-02-02
+GRV0195,Delhi,Electricity,2026-04-23,Frequent electricity cuts in village,Resolved,2026-04-29
+GRV0196,Delhi,Health,2026-09-21,Medicine shortage in government hospital,In Progress,
+GRV0197,Punjab,Education,2026-06-11,School infrastructure needs repair,Resolved,2026-07-04
+GRV0198,Delhi,Water Supply,2026-01-08,Water pipeline is damaged,Resolved,2026-01-31
+GRV0199,Himachal Pradesh,Health,2026-09-12,Hospital staff is not available,Resolved,2026-10-04
+GRV0200,Uttar Pradesh,Water Supply,2026-02-20,No drinking water supply for several days,Pending,
+GRV0201,Delhi,Education,2026-03-19,School infrastructure needs repair,Resolved,2026-04-02
+GRV0202,Uttar Pradesh,Electricity,2026-06-14,Frequent electricity cuts in village,Resolved,2026-06-28
+GRV0203,Haryana,Water Supply,2026-06-10,,Resolved,2026-06-29
+GRV0204,Himachal Pradesh,Water Supply,2026-07-07,No drinking water supply for several days,Pending,
+GRV0205,Delhi,Water Supply,2026-01-11,No drinking water supply for several days,Resolved,2026-01-13
+GRV0206,Himachal Pradesh,Health,2026-01-20,Medicine shortage in government hospital,Resolved,2026-01-26
+GRV0207,Delhi,Revenue,2026-10-07,Income certificate approval is delayed,Resolved,2026-11-06
+GRV0208,Himachal Pradesh,Electricity,2026-08-12,Incorrect electricity bill received,Resolved,2026-08-31
+GRV0209,Delhi,Road Transport,2026-08-25,Public bus service is irregular,Resolved,2026-09-03
+GRV0210,Haryana,Social Welfare,2026-01-29,Pension payment has not been received,Resolved,2026-02-21
+GRV0211,Himachal Pradesh,Road Transport,2026-05-08,Public bus service is irregular,Resolved,2026-05-12
+GRV0212,Uttar Pradesh,Health,2026-06-14,Medicine shortage in government hospital,Pending,
+GRV0213,Delhi,Health,2026-01-27,Medicine shortage in government hospital,In Progress,
+GRV0214,Uttar Pradesh,Education,2026-08-25,Scholarship payment is delayed,Pending,
+GRV0215,Punjab,Road Transport,2026-07-09,Public bus service is irregular,Resolved,2026-07-11
+GRV0216,Haryana,Road Transport,2026-06-30,Road is damaged and unsafe,Resolved,2026-07-26
+GRV0217,Delhi,Road Transport,2026-01-11,Road is damaged and unsafe,Resolved,2026-01-28
+GRV0218,Haryana,Water Supply,2026-04-08,Water pipeline is damaged,Resolved,2026-05-02
+GRV0219,Delhi,Health,2026-02-05,Medicine shortage in government hospital,Resolved,2026-02-24
+GRV0220,Haryana,Health,2026-07-20,Hospital staff is not available,Pending,
+GRV0221,Delhi,Health,2026-01-17,Medicine shortage in government hospital,Resolved,2026-02-15
+GRV0222,Haryana,Electricity,2026-02-08,Incorrect electricity bill received,Resolved,2026-02-26
+GRV0223,Haryana,Water Supply,2026-04-12,Water pipeline is damaged,Resolved,2026-05-01
+GRV0224,Himachal Pradesh,Road Transport,2026-01-17,Road is damaged and unsafe,In Progress,
+GRV0225,Haryana,Health,2026-03-21,Hospital staff is not available,In Progress,
+GRV0226,Uttar Pradesh,Water Supply,2026-07-17,No drinking water supply for several days,In Progress,
+GRV0227,Haryana,Water Supply,2026-02-28,Water pipeline is damaged,In Progress,
+GRV0228,Uttar Pradesh,Health,2026-09-23,Hospital staff is not available,Resolved,2026-10-10
+GRV0229,Himachal Pradesh,Electricity,2026-09-27,Frequent electricity cuts in village,Resolved,2026-10-04
+GRV0230,Punjab,Revenue,2026-08-03,Land record correction is pending,Pending,
+GRV0231,Delhi,Electricity,2026-04-13,Incorrect electricity bill received,Resolved,2026-05-07
+GRV0232,Delhi,Health,2026-04-08,Medicine shortage in government hospital,In Progress,
+GRV0233,Punjab,Electricity,2026-02-08,Frequent electricity cuts in village,Resolved,2026-02-25
+GRV0234,Uttar Pradesh,Water Supply,2026-07-29,Water pipeline is damaged,Resolved,2026-08-11
+GRV0235,Delhi,Education,2026-08-15,Scholarship payment is delayed,In Progress,
+GRV0236,Delhi,Health,2026-10-01,,In Progress,
+GRV0237,Haryana,Social Welfare,2026-01-29,Government scheme benefit is pending,Pending,
+GRV0238,Himachal Pradesh,Electricity,2026-07-04,Incorrect electricity bill received,Resolved,2026-07-16
+GRV0239,Haryana,Health,2026-03-06,Medicine shortage in government hospital,Resolved,2026-03-09
+GRV0240,Himachal Pradesh,Education,2026-05-26,Scholarship payment is delayed,Resolved,2026-06-20
+GRV0241,Punjab,Social Welfare,2026-03-14,Government scheme benefit is pending,Resolved,2026-04-08
+GRV0242,Delhi,Social Welfare,2026-10-20,Government scheme benefit is pending,Pending,
+GRV0243,Uttar Pradesh,Electricity,2026-01-11,Frequent electricity cuts in village,In Progress,
+GRV0244,Haryana,Road Transport,2026-09-17,Road is damaged and unsafe,Resolved,2026-10-07
+GRV0245,Delhi,Education,2026-08-31,School infrastructure needs repair,Resolved,2026-09-10
+GRV0246,Haryana,Electricity,2026-08-29,Frequent electricity cuts in village,In Progress,
+GRV0247,Delhi,Water Supply,2026-08-03,Water pipeline is damaged,In Progress,
+GRV0248,Uttar Pradesh,Social Welfare,2026-03-02,Government scheme benefit is pending,Resolved,2026-03-05
+GRV0249,Delhi,Water Supply,2026-08-04,Water pipeline is damaged,In Progress,
+GRV0250,Haryana,Water Supply,2026-03-30,Water pipeline is damaged,Resolved,2026-04-13
+GRV0251,Delhi,Electricity,2026-05-03,Frequent electricity cuts in village,Resolved,2026-05-12
+GRV0252,Himachal Pradesh,Revenue,2026-06-19,Land record correction is pending,Pending,
+GRV0253,Delhi,Road Transport,2026-08-14,Road is damaged and unsafe,Resolved,2026-08-29
+GRV0254,Punjab,Health,2026-02-06,Hospital staff is not available,Resolved,2026-02-19
+GRV0255,Haryana,Social Welfare,2026-04-24,Pension payment has not been received,Resolved,2026-05-24
+GRV0256,Delhi,Road Transport,2026-02-25,Road is damaged and unsafe,Pending,
+GRV0257,Punjab,Education,2026-09-19,Scholarship payment is delayed,Resolved,2026-10-05
+GRV0258,Himachal Pradesh,Health,2026-06-18,Hospital staff is not available,Resolved,2026-07-01
+GRV0259,Punjab,Water Supply,2026-07-10,No drinking water supply for several days,Pending,
+GRV0260,Delhi,Revenue,2026-02-14,Land record correction is pending,In Progress,
+GRV0261,Uttar Pradesh,Road Transport,2026-06-09,Public bus service is irregular,Resolved,2026-07-09
+GRV0262,Uttar Pradesh,Water Supply,2026-03-18,Water pipeline is damaged,Resolved,2026-03-25
+GRV0263,Himachal Pradesh,Health,2026-06-04,Medicine shortage in government hospital,In Progress,
+GRV0264,Delhi,Education,2026-07-07,School infrastructure needs repair,Resolved,2026-07-20
+GRV0265,Punjab,Health,2026-03-15,Medicine shortage in government hospital,Resolved,2026-03-17
+GRV0266,Punjab,Health,2026-02-06,Medicine shortage in government hospital,Resolved,2026-02-10
+GRV0267,Himachal Pradesh,Road Transport,2026-08-07,Public bus service is irregular,Resolved,2026-08-19
+GRV0268,Uttar Pradesh,Electricity,2026-01-22,Incorrect electricity bill received,Resolved,2026-02-18
+GRV0269,Punjab,Social Welfare,2026-06-24,Pension payment has not been received,In Progress,
+GRV0270,Delhi,Health,2026-01-07,Hospital staff is not available,Resolved,2026-01-08
+GRV0271,Haryana,Water Supply,2026-01-26,Water pipeline is damaged,Resolved,2026-01-28
+GRV0272,Haryana,Electricity,2026-02-08,Frequent electricity cuts in village,Resolved,2026-03-09
+GRV0273,Punjab,Education,2026-05-10,School infrastructure needs repair,Pending,
+GRV0274,Punjab,Health,2026-07-14,Medicine shortage in government hospital,In Progress,
+GRV0275,Haryana,Electricity,2026-01-21,Frequent electricity cuts in village,In Progress,
+GRV0276,Delhi,Social Welfare,2026-05-27,Pension payment has not been received,Resolved,2026-05-30
+GRV0277,Delhi,Education,2026-01-15,School infrastructure needs repair,Pending,
+GRV0278,Punjab,Revenue,2026-10-07,Income certificate approval is delayed,Resolved,2026-10-22
+GRV0279,Haryana,Electricity,2026-03-01,Frequent electricity cuts in village,Resolved,2026-03-18
+GRV0280,Punjab,Health,2026-01-27,Hospital staff is not available,Pending,
+GRV0281,Uttar Pradesh,Water Supply,2026-06-30,No drinking water supply for several days,In Progress,
+GRV0282,Himachal Pradesh,Health,2026-01-15,Medicine shortage in government hospital,Resolved,2026-01-29
+GRV0283,Himachal Pradesh,Water Supply,2026-08-16,Water pipeline is damaged,Resolved,2026-09-01
+GRV0284,Delhi,Health,2026-04-27,Medicine shortage in government hospital,Resolved,2026-05-05
+GRV0285,Uttar Pradesh,Electricity,2026-03-13,Incorrect electricity bill received,Resolved,2026-04-12
+GRV0286,Himachal Pradesh,Social Welfare,2026-06-15,Pension payment has not been received,Resolved,2026-06-28
+GRV0287,Himachal Pradesh,Social Welfare,2026-09-24,Pension payment has not been received,Resolved,2026-10-18
+GRV0288,Punjab,Health,2026-02-15,Medicine shortage in government hospital,Resolved,2026-03-03
+GRV0289,Himachal Pradesh,Education,2026-08-30,Scholarship payment is delayed,Resolved,2026-09-01
+GRV0290,Uttar Pradesh,Revenue,2026-03-18,,Resolved,2026-04-09
+GRV0291,Uttar Pradesh,Water Supply,2026-06-23,Water pipeline is damaged,Pending,
+GRV0292,Himachal Pradesh,Health,2026-05-03,Hospital staff is not available,Resolved,2026-05-09
+GRV0293,Uttar Pradesh,Water Supply,2026-02-10,Water pipeline is damaged,Pending,
+GRV0294,Delhi,Road Transport,2026-04-21,Public bus service is irregular,Pending,
+GRV0295,Himachal Pradesh,Water Supply,2026-01-22,Water pipeline is damaged,Resolved,2026-01-25
+GRV0296,Himachal Pradesh,Road Transport,2026-01-12,Road is damaged and unsafe,Resolved,2026-01-25
+GRV0297,Punjab,Water Supply,2026-05-27,No drinking water supply for several days,In Progress,
+GRV0298,Punjab,Health,2026-04-29,Medicine shortage in government hospital,Resolved,2026-05-18
+GRV0299,Himachal Pradesh,Health,2026-07-30,Hospital staff is not available,Resolved,2026-08-23
+GRV0300,Haryana,Water Supply,2026-07-21,Water pipeline is damaged,Resolved,2026-08-19
+GRV0301,Haryana,Health,2026-08-01,Medicine shortage in government hospital,Pending,
+GRV0302,Punjab,Electricity,2026-01-04,Incorrect electricity bill received,Pending,
+GRV0303,Punjab,Health,2026-06-26,Medicine shortage in government hospital,Resolved,2026-07-05
+GRV0304,Uttar Pradesh,Water Supply,2026-08-16,Water pipeline is damaged,In Progress,
+GRV0305,Haryana,Electricity,2026-08-31,Incorrect electricity bill received,Resolved,2026-09-22
+GRV0306,Himachal Pradesh,Electricity,2026-01-18,Frequent electricity cuts in village,Resolved,2026-02-02
+GRV0307,Uttar Pradesh,Road Transport,2026-04-10,Public bus service is irregular,In Progress,
+GRV0308,Haryana,Electricity,2026-01-02,Frequent electricity cuts in village,Resolved,2026-01-07
+GRV0309,Himachal Pradesh,Education,2026-04-21,School infrastructure needs repair,Resolved,2026-04-28
+GRV0310,Punjab,Water Supply,2026-05-25,Water pipeline is damaged,Resolved,2026-06-19
+GRV0311,Punjab,Revenue,2026-09-18,Income certificate approval is delayed,Resolved,2026-09-26
+GRV0312,Uttar Pradesh,Electricity,2026-10-14,Frequent electricity cuts in village,Resolved,2026-10-17
+GRV0313,Delhi,Education,2026-09-14,School infrastructure needs repair,Resolved,2026-09-22
+GRV0314,Himachal Pradesh,Water Supply,2026-03-05,No drinking water supply for several days,Resolved,2026-04-02
+GRV0315,Punjab,Road Transport,2026-07-23,Public bus service is irregular,Resolved,2026-08-09
+GRV0316,Haryana,Water Supply,2026-07-26,Water pipeline is damaged,Resolved,2026-08-22
+GRV0317,Punjab,Education,2026-05-10,School infrastructure needs repair,Resolved,2026-05-15
+GRV0318,Haryana,Health,2026-04-29,Hospital staff is not available,Resolved,2026-05-04
+GRV0319,Punjab,Education,2026-06-28,,Resolved,2026-07-08
+GRV0320,Himachal Pradesh,Electricity,2026-09-08,Incorrect electricity bill received,Resolved,2026-09-10
+GRV0321,Delhi,Social Welfare,2026-02-08,Government scheme benefit is pending,Resolved,2026-02-23
+GRV0322,Haryana,Education,2026-10-21,School infrastructure needs repair,Resolved,2026-11-20
+GRV0323,Uttar Pradesh,Water Supply,2026-08-22,No drinking water supply for several days,Pending,
+GRV0324,Haryana,Health,2026-09-21,Hospital staff is not available,Resolved,2026-09-27
+GRV0325,Uttar Pradesh,Health,2026-10-17,Hospital staff is not available,Pending,
+GRV0326,Himachal Pradesh,Water Supply,2026-04-24,Water pipeline is damaged,Resolved,2026-05-20
+GRV0327,Haryana,Health,2026-10-16,Medicine shortage in government hospital,Resolved,2026-11-01
+GRV0328,Uttar Pradesh,Water Supply,2026-03-31,Water pipeline is damaged,Resolved,2026-04-02
+GRV0329,Himachal Pradesh,Health,2026-03-14,Medicine shortage in government hospital,In Progress,
+GRV0330,Delhi,Road Transport,2026-09-02,Public bus service is irregular,Resolved,2026-09-11
+GRV0331,Delhi,Water Supply,2026-04-12,Water pipeline is damaged,Resolved,2026-04-18
+GRV0332,Himachal Pradesh,Revenue,2026-10-06,Income certificate approval is delayed,Resolved,2026-10-17
+GRV0333,Punjab,Education,2026-03-30,School infrastructure needs repair,Resolved,2026-03-31
+GRV0334,Himachal Pradesh,Electricity,2026-04-03,Frequent electricity cuts in village,Resolved,2026-04-20
+GRV0335,Uttar Pradesh,Education,2026-09-24,School infrastructure needs repair,Resolved,2026-10-08
+GRV0336,Uttar Pradesh,Electricity,2026-01-03,Incorrect electricity bill received,Resolved,2026-01-11
+GRV0337,Haryana,Revenue,2026-08-09,Income certificate approval is delayed,Resolved,2026-08-21
+GRV0338,Uttar Pradesh,Electricity,2026-10-27,Incorrect electricity bill received,Resolved,2026-11-07
+GRV0339,Haryana,Social Welfare,2026-01-21,Government scheme benefit is pending,Resolved,2026-02-13
+GRV0340,Punjab,Social Welfare,2026-10-19,Pension payment has not been received,In Progress,
+GRV0341,Punjab,Electricity,2026-10-02,Incorrect electricity bill received,Resolved,2026-10-31
+GRV0342,Punjab,Electricity,2026-01-27,Frequent electricity cuts in village,In Progress,
+GRV0343,Uttar Pradesh,Water Supply,2026-04-16,No drinking water supply for several days,Resolved,2026-05-04
+GRV0344,Punjab,Social Welfare,2026-03-31,Government scheme benefit is pending,Resolved,2026-04-11
+GRV0345,Himachal Pradesh,Road Transport,2026-06-08,Public bus service is irregular,Pending,
+GRV0346,Himachal Pradesh,Health,2026-02-05,Medicine shortage in government hospital,Resolved,2026-02-27
+GRV0347,Haryana,Health,2026-02-16,Medicine shortage in government hospital,In Progress,
+GRV0348,Uttar Pradesh,Water Supply,2026-01-26,No drinking water supply for several days,Resolved,2026-02-05
+GRV0349,Himachal Pradesh,Road Transport,2026-03-13,,Pending,
+GRV0350,Punjab,Education,2026-03-09,School infrastructure needs repair,Resolved,2026-03-28
+GRV0351,Uttar Pradesh,Water Supply,2026-05-26,No drinking water supply for several days,Pending,
+GRV0352,Punjab,Electricity,2026-03-10,Incorrect electricity bill received,Resolved,2026-03-13
+GRV0353,Haryana,Electricity,2026-05-29,Frequent electricity cuts in village,Resolved,2026-06-14
+GRV0354,Haryana,Education,2026-06-09,Scholarship payment is delayed,Resolved,2026-06-18
+GRV0355,Haryana,Health,2026-09-15,Medicine shortage in government hospital,Resolved,2026-09-22
+GRV0356,Himachal Pradesh,Electricity,2026-05-05,Frequent electricity cuts in village,Pending,
+GRV0357,Punjab,Social Welfare,2026-07-07,Government scheme benefit is pending,Pending,
+GRV0358,Punjab,Education,2026-10-15,School infrastructure needs repair,Resolved,2026-10-29
+GRV0359,Himachal Pradesh,Water Supply,2026-06-13,No drinking water supply for several days,Resolved,2026-06-21
+GRV0360,Uttar Pradesh,Education,2026-07-15,School infrastructure needs repair,Resolved,2026-08-12
+GRV0361,Uttar Pradesh,Road Transport,2026-01-27,Road is damaged and unsafe,Resolved,2026-02-04
+GRV0362,Uttar Pradesh,Electricity,2026-02-27,Frequent electricity cuts in village,Resolved,2026-03-05
+GRV0363,Punjab,Electricity,2026-04-12,Incorrect electricity bill received,Resolved,2026-04-14
+GRV0364,Haryana,Water Supply,2026-02-05,No drinking water supply for several days,In Progress,
+GRV0365,Himachal Pradesh,Road Transport,2026-07-27,Road is damaged and unsafe,Resolved,2026-08-26
+GRV0366,Punjab,Road Transport,2026-05-25,Road is damaged and unsafe,Resolved,2026-06-02
+GRV0367,Haryana,Revenue,2026-08-25,Income certificate approval is delayed,Resolved,2026-09-13
+GRV0368,Punjab,Revenue,2026-05-01,Income certificate approval is delayed,Pending,
+GRV0369,Haryana,Education,2026-08-19,School infrastructure needs repair,In Progress,
+GRV0370,Himachal Pradesh,Electricity,2026-08-14,Frequent electricity cuts in village,Resolved,2026-08-18
+GRV0371,Delhi,Education,2026-03-07,Scholarship payment is delayed,Resolved,2026-03-09
+GRV0372,Punjab,Water Supply,2026-06-29,Water pipeline is damaged,Resolved,2026-07-25
+GRV0373,Haryana,Electricity,2026-05-23,Incorrect electricity bill received,In Progress,
+GRV0374,Uttar Pradesh,Health,2026-08-27,Hospital staff is not available,Resolved,2026-09-02
+GRV0375,Delhi,Electricity,2026-08-04,Incorrect electricity bill received,Resolved,2026-08-18
+GRV0376,Delhi,Health,2026-01-14,Medicine shortage in government hospital,Resolved,2026-02-04
+GRV0377,Uttar Pradesh,Health,2026-07-25,Hospital staff is not available,In Progress,
+GRV0378,Punjab,Water Supply,2026-09-10,No drinking water supply for several days,In Progress,
+GRV0379,Haryana,Electricity,2026-04-20,Incorrect electricity bill received,In Progress,
+GRV0380,Uttar Pradesh,Electricity,2026-01-25,Incorrect electricity bill received,Pending,
+GRV0381,Punjab,Electricity,2026-01-25,Incorrect electricity bill received,Resolved,2026-02-07
+GRV0382,Punjab,Social Welfare,2026-04-06,Government scheme benefit is pending,Resolved,2026-04-20
+GRV0383,Uttar Pradesh,Education,2026-06-09,School infrastructure needs repair,Resolved,2026-07-09
+GRV0384,Uttar Pradesh,Electricity,2026-10-14,Incorrect electricity bill received,Resolved,2026-11-02
+GRV0385,Himachal Pradesh,Health,2026-09-24,Hospital staff is not available,Pending,
+GRV0386,Delhi,Education,2026-04-09,Scholarship payment is delayed,Resolved,2026-05-07
+GRV0387,Himachal Pradesh,Water Supply,2026-09-09,No drinking water supply for several days,Resolved,2026-09-13
+GRV0388,Uttar Pradesh,Water Supply,2026-08-09,No drinking water supply for several days,Resolved,2026-09-06
+GRV0389,Delhi,Road Transport,2026-07-10,Road is damaged and unsafe,Resolved,2026-08-08
+GRV0390,Haryana,Electricity,2026-01-14,Incorrect electricity bill received,Resolved,2026-02-12
+GRV0391,Haryana,Education,2026-03-03,School infrastructure needs repair,Resolved,2026-03-25
+GRV0392,Uttar Pradesh,Water Supply,2026-03-06,No drinking water supply for several days,Resolved,2026-04-01
+GRV0393,Delhi,Social Welfare,2026-06-22,Pension payment has not been received,Resolved,2026-07-09
+GRV0394,Haryana,Electricity,2026-07-10,Incorrect electricity bill received,Resolved,2026-08-02
+GRV0395,Uttar Pradesh,Health,2026-02-03,Medicine shortage in government hospital,Resolved,2026-03-03
+GRV0396,Uttar Pradesh,Road Transport,2026-08-09,Road is damaged and unsafe,Resolved,2026-08-15
+GRV0397,Himachal Pradesh,Social Welfare,2026-04-23,Government scheme benefit is pending,In Progress,
+GRV0398,Haryana,Education,2026-05-09,Scholarship payment is delayed,Pending,
+GRV0399,Uttar Pradesh,Road Transport,2026-08-20,Public bus service is irregular,Resolved,2026-08-31
+GRV0400,Punjab,Revenue,2026-07-19,Land record correction is pending,Resolved,2026-08-05
+GRV0401,Himachal Pradesh,Electricity,2026-03-10,Frequent electricity cuts in village,Pending,
+GRV0402,Himachal Pradesh,Water Supply,2026-07-19,No drinking water supply for several days,Resolved,2026-07-30
+GRV0403,Haryana,Road Transport,2026-06-01,Public bus service is irregular,Resolved,2026-06-21
+GRV0404,Delhi,Electricity,2026-08-16,Frequent electricity cuts in village,Resolved,2026-08-31
+GRV0405,Haryana,Road Transport,2026-02-20,Public bus service is irregular,Resolved,2026-02-25
+GRV0406,Punjab,Road Transport,2026-01-08,Road is damaged and unsafe,Resolved,2026-01-14
+GRV0407,Uttar Pradesh,Education,2026-09-13,Scholarship payment is delayed,Resolved,2026-09-22
+GRV0408,Himachal Pradesh,Health,2026-02-18,Hospital staff is not available,Resolved,2026-02-22
+GRV0409,Uttar Pradesh,Social Welfare,2026-04-29,Pension payment has not been received,Resolved,2026-05-17
+GRV0410,Punjab,Health,2026-09-15,Medicine shortage in government hospital,Resolved,2026-10-06
+GRV0411,Himachal Pradesh,Health,2026-09-28,Hospital staff is not available,Resolved,2026-10-16
+GRV0412,Punjab,Electricity,2026-05-04,Incorrect electricity bill received,Resolved,2026-05-22
+GRV0413,Himachal Pradesh,Revenue,2026-06-21,Income certificate approval is delayed,Resolved,2026-07-05
+GRV0414,Himachal Pradesh,Social Welfare,2026-05-02,Government scheme benefit is pending,Pending,
+GRV0415,Haryana,Revenue,2026-01-18,Income certificate approval is delayed,Resolved,2026-02-17
+GRV0416,Punjab,Road Transport,2026-08-26,Public bus service is irregular,Pending,
+GRV0417,Himachal Pradesh,Health,2026-03-27,Medicine shortage in government hospital,Pending,
+GRV0418,Haryana,Electricity,2026-09-26,Frequent electricity cuts in village,Resolved,2026-10-25
+GRV0419,Punjab,Health,2026-02-19,Hospital staff is not available,Resolved,2026-03-10
+GRV0420,Delhi,Electricity,2026-07-08,Frequent electricity cuts in village,Pending,
+GRV0421,Punjab,Health,2026-01-23,Hospital staff is not available,Pending,
+GRV0422,Uttar Pradesh,Revenue,2026-08-17,Income certificate approval is delayed,Resolved,2026-08-27
+GRV0423,Punjab,Road Transport,2026-09-18,Public bus service is irregular,In Progress,
+GRV0424,Delhi,Health,2026-01-10,Hospital staff is not available,Pending,
+GRV0425,Punjab,Water Supply,2026-04-22,Water pipeline is damaged,Pending,
+GRV0426,Punjab,Health,2026-03-31,Hospital staff is not available,Pending,
+GRV0427,Himachal Pradesh,Health,2026-05-01,Medicine shortage in government hospital,In Progress,
+GRV0428,Delhi,Education,2026-08-31,Scholarship payment is delayed,Pending,
+GRV0429,Uttar Pradesh,Health,2026-04-21,Medicine shortage in government hospital,Resolved,2026-05-11
+GRV0430,Haryana,Health,2026-06-03,Medicine shortage in government hospital,Resolved,2026-06-24
+GRV0431,Punjab,Water Supply,2026-09-17,No drinking water supply for several days,Resolved,2026-09-30
+GRV0432,Haryana,Water Supply,2026-01-04,Water pipeline is damaged,Resolved,2026-01-07
+GRV0433,Uttar Pradesh,Education,2026-09-11,Scholarship payment is delayed,Resolved,2026-10-11
+GRV0434,Delhi,Education,2026-03-01,School infrastructure needs repair,Resolved,2026-03-15
+GRV0435,Haryana,Water Supply,2026-03-17,No drinking water supply for several days,Pending,
+GRV0436,Himachal Pradesh,Road Transport,2026-01-19,Road is damaged and unsafe,Resolved,2026-01-23
+GRV0437,Delhi,Education,2026-04-26,Scholarship payment is delayed,Resolved,2026-05-24
+GRV0438,Punjab,Social Welfare,2026-04-28,Government scheme benefit is pending,Resolved,2026-05-15
+GRV0439,Punjab,Road Transport,2026-07-17,Road is damaged and unsafe,In Progress,
+GRV0440,Punjab,Road Transport,2026-03-31,Road is damaged and unsafe,Resolved,2026-04-25
+GRV0441,Haryana,Social Welfare,2026-09-16,Government scheme benefit is pending,Resolved,2026-10-03
+GRV0442,Uttar Pradesh,Electricity,2026-02-20,Frequent electricity cuts in village,In Progress,
+GRV0443,Haryana,Electricity,2026-03-10,Incorrect electricity bill received,Pending,
+GRV0444,Punjab,Road Transport,2026-03-15,Public bus service is irregular,In Progress,
+GRV0445,Uttar Pradesh,Water Supply,2026-05-06,No drinking water supply for several days,Pending,
+GRV0446,Punjab,Electricity,2026-04-10,Incorrect electricity bill received,Pending,
+GRV0447,Himachal Pradesh,Health,2026-01-31,Medicine shortage in government hospital,In Progress,
+GRV0448,Delhi,Health,2026-04-16,Hospital staff is not available,Resolved,2026-05-14
+GRV0449,Uttar Pradesh,Revenue,2026-04-30,Land record correction is pending,In Progress,
+GRV0450,Delhi,Road Transport,2026-02-13,Public bus service is irregular,Resolved,2026-02-17
+GRV0451,Delhi,Water Supply,2026-01-21,No drinking water supply for several days,Resolved,2026-01-22
+GRV0452,Punjab,Health,2026-06-09,Medicine shortage in government hospital,Pending,
+GRV0453,Punjab,Water Supply,2026-07-18,Water pipeline is damaged,Resolved,2026-08-13
+GRV0454,Uttar Pradesh,Education,2026-06-14,Scholarship payment is delayed,In Progress,
+GRV0455,Delhi,Water Supply,2026-08-06,No drinking water supply for several days,Resolved,2026-08-23
+GRV0456,Uttar Pradesh,Social Welfare,2026-06-10,Pension payment has not been received,Resolved,2026-06-14
+GRV0457,Haryana,Revenue,2026-10-16,Income certificate approval is delayed,Resolved,2026-11-14
+GRV0458,Himachal Pradesh,Electricity,2026-02-12,Frequent electricity cuts in village,Resolved,2026-03-06
+GRV0459,Uttar Pradesh,Water Supply,2026-07-17,No drinking water supply for several days,Pending,
+GRV0460,Uttar Pradesh,Health,2026-01-22,Medicine shortage in government hospital,Pending,
+GRV0461,Punjab,Electricity,2026-05-05,Incorrect electricity bill received,Pending,
+GRV0462,Uttar Pradesh,Road Transport,2026-10-21,Road is damaged and unsafe,Pending,
+GRV0463,Haryana,Health,2026-02-18,,Resolved,2026-02-25
+GRV0464,Haryana,Electricity,2026-03-09,Frequent electricity cuts in village,Pending,
+GRV0465,Himachal Pradesh,Revenue,2026-04-02,Income certificate approval is delayed,Resolved,2026-05-01
+GRV0466,Himachal Pradesh,Social Welfare,2026-01-26,Government scheme benefit is pending,Resolved,2026-01-28
+GRV0467,Delhi,Electricity,2026-02-13,Incorrect electricity bill received,Resolved,2026-03-05
+GRV0468,Uttar Pradesh,Electricity,2026-10-06,Frequent electricity cuts in village,Pending,
+GRV0469,Punjab,Road Transport,2026-09-24,Public bus service is irregular,Resolved,2026-10-04
+GRV0470,Uttar Pradesh,Road Transport,2026-03-26,Public bus service is irregular,Resolved,2026-04-04
+GRV0471,Delhi,Electricity,2026-09-25,Frequent electricity cuts in village,Resolved,2026-10-11
+GRV0472,Himachal Pradesh,Revenue,2026-04-24,Income certificate approval is delayed,Resolved,2026-04-30
+GRV0473,Punjab,Health,2026-01-08,Medicine shortage in government hospital,In Progress,
+GRV0474,Delhi,Health,2026-09-17,Medicine shortage in government hospital,Pending,
+GRV0475,Haryana,Health,2026-01-16,Hospital staff is not available,In Progress,
+GRV0476,Punjab,Health,2026-06-07,Medicine shortage in government hospital,Resolved,2026-06-11
+GRV0477,Haryana,Social Welfare,2026-02-28,Pension payment has not been received,Resolved,2026-03-27
+GRV0478,Uttar Pradesh,Health,2026-07-15,Medicine shortage in government hospital,Pending,
+GRV0479,Punjab,Health,2026-05-13,Hospital staff is not available,In Progress,
+GRV0480,Punjab,Education,2026-05-14,Scholarship payment is delayed,Pending,
+GRV0481,Delhi,Electricity,2026-08-01,Incorrect electricity bill received,Resolved,2026-08-23
+GRV0482,Himachal Pradesh,Education,2026-10-04,Scholarship payment is delayed,Resolved,2026-10-30
+GRV0483,Uttar Pradesh,Electricity,2026-02-03,Incorrect electricity bill received,Resolved,2026-02-18
+GRV0484,Himachal Pradesh,Water Supply,2026-10-06,No drinking water supply for several days,Resolved,2026-10-28
+GRV0485,Punjab,Road Transport,2026-09-28,Road is damaged and unsafe,Resolved,2026-09-29
+GRV0486,Punjab,Water Supply,2026-03-07,No drinking water supply for several days,Resolved,2026-03-31
+GRV0487,Himachal Pradesh,Health,2026-07-20,Medicine shortage in government hospital,Pending,
+GRV0488,Uttar Pradesh,Health,2026-05-08,Hospital staff is not available,Resolved,2026-05-12
+GRV0489,Himachal Pradesh,Health,2026-05-23,Hospital staff is not available,Resolved,2026-05-26
+GRV0490,Himachal Pradesh,Electricity,2026-05-22,Frequent electricity cuts in village,In Progress,
+GRV0491,Uttar Pradesh,Road Transport,2026-09-09,Road is damaged and unsafe,Pending,
+GRV0492,Delhi,Revenue,2026-09-08,Income certificate approval is delayed,Resolved,2026-10-05
+GRV0493,Delhi,Electricity,2026-02-07,Frequent electricity cuts in village,Resolved,2026-02-28
+GRV0494,Uttar Pradesh,Social Welfare,2026-03-25,Government scheme benefit is pending,Resolved,2026-04-02
+GRV0495,Delhi,Education,2026-03-24,School infrastructure needs repair,In Progress,
+GRV0496,Himachal Pradesh,Water Supply,2026-10-11,No drinking water supply for several days,Resolved,2026-10-18
+GRV0497,Punjab,Water Supply,2026-05-01,Water pipeline is damaged,Resolved,2026-05-16
+GRV0498,Himachal Pradesh,Health,2026-06-13,Medicine shortage in government hospital,Resolved,2026-07-13
+GRV0499,Haryana,Water Supply,2026-03-30,No drinking water supply for several days,Pending,
+GRV0500,Punjab,Education,2026-08-10,School infrastructure needs repair,Resolved,2026-09-06
